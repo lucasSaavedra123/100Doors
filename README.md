@@ -18,7 +18,7 @@ We want to answer the next question:
 
 > 'If we have 100 doors, how do they remain if we visit in the 1st pass the 1st ones, in the 2nd pass, the 2nd ones, and so on, until the 100th door?'
 
-Let's write code in SmallTalk using TDD to get the answer.
+Let's write code in SmallTalk (Cuis University) using TDD to get the answer.
 
 # Answer
 
