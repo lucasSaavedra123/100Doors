@@ -1,5 +1,6 @@
 # 100Doors
 
+[This is one of the TDD Buddy's challenges.](http://www.tddbuddy.com/katas/100%20Doors.pdf)
 We have a row of closed doors. For example:
 
 ![Five Closed Doors](img/fiveClosedDoors.png)
